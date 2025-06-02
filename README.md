@@ -15,8 +15,8 @@
 ## 🎯 Steps taken to fulfill requirements & Discussion.
 
 1. 📁 Folder structure is simplified. Components used was stored in the components folder
-   1.1 🗄 Card.tsx
-   1.1.1 📓 This component served as the Fitness Card which was re-used with the data given. This is where the attributes in the data were stored and displayed. Also, dynamic colors and stylings was implemented.
-   1.2 🗄 CardWrapper.tsx
-   1.2.1 📓 This componet handles the outer container for the segments. As the container, it only wrapped the Card component with the header name.
+   2 🗄 Card.tsx
+   3 📓 This component served as the Fitness Card which was re-used with the data given. This is where the attributes in the data were stored and displayed. Also, dynamic colors and stylings was implemented.
+   4 🗄 CardWrapper.tsx
+   5 📓 This componet handles the outer container for the segments. As the container, it only wrapped the Card component with the header name.
 2. 🧠 I have noticed in the given data that there was a pattern for the array. This is where reusability came into place. I have utilized the pattern to achieve re-usability.
